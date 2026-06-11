@@ -1,0 +1,121 @@
+,Name,Rating,Reviews,Salaries,Interviews,Jobs,Benefits,Highly_Rated_for,Critically_Rated_for
+0,TCS,3.3,1.2L,10.2L,11.4k,4.6k,10.8k,Job Security,"Promotions, Salary, Work Satisfaction"
+1,Accenture,3.7,74.4k,7.1L,9.4k,30.3k,6.8k,"Promotions, Salary, Work Satisfaction",
+2,Wipro,3.6,65.8k,4.9L,6.9k,329,4.8k,"Promotions, Salary, Work Satisfaction",
+3,Cognizant,3.7,62.1k,6.1L,6.5k,775,5.6k,"Promotions, Salary, Work Satisfaction",
+4,Capgemini,3.6,54.1k,4.9L,5.6k,2.3k,3.8k,"Work Life Balance, Job Security","Promotions, Salary, Work Satisfaction"
+5,HDFC Bank,3.8,53.2k,1.5L,3.1k,301,3.4k,"Job Security, Skill Development","Promotions, Salary"
+6,Infosys,3.5,49.4k,5.3L,8.5k,2.7k,4.9k,Job Security,"Promotions, Salary, Work Satisfaction"
+7,HCLTech,3.4,46.5k,3.9L,4.6k,292,3.9k,"Promotions, Salary, Work Satisfaction",
+8,ICICI Bank,3.9,46.4k,1.5L,3k,8,3.8k,"Job Security, Promotions, Skill Development",
+9,Tech Mahindra,3.3,43.8k,2.9L,4.6k,614,3.5k,"Promotions, Salary, Work Satisfaction",
+10,Genpact,3.6,42.9k,2.4L,4k,572,3.6k,Job Security,"Promotions, Salary, Work Satisfaction"
+11,TP,3.9,39.1k,99.7k,2.3k,1.6k,1.9k,"Work Life Balance, Job Security, Skill Development",
+12,Jio,4.4,33.8k,62k,4.5k,--,2.6k,"Job Security, Skill Development, Company Culture",
+13,Axis Bank,3.6,33.7k,1L,2k,259,2.2k,"Promotions, Work Satisfaction, Company Culture",
+14,Concentrix Corporation,3.6,32.6k,1.3L,2k,17,3.2k,Job Security,"Promotions, Salary, Work Satisfaction"
+15,Amazon,3.9,31.8k,1.6L,6k,74,3.7k,"Company Culture, Work Life Balance, Salary",Promotions
+16,Reliance Retail,3.9,27.6k,74.1k,2k,97,1.9k,"Job Security, Skill Development, Work Life Balance",Promotions
+17,iEnergizer,4.6,27.3k,24.9k,1.6k,87,572,"Salary, Company Culture, Work Life Balance",
+18,LTIMindtree,3.6,26.8k,2L,3.5k,535,824,"Promotions, Salary, Work Satisfaction",
+19,HDB Financial Services,3.9,26k,49.1k,1.1k,6,1.5k,Job Security,"Promotions, Salary"
+20,IBM,3.9,26k,2.2L,2.6k,1.2k,2.6k,"Work Life Balance, Company Culture, Job Security",Promotions
+21,Larsen & Toubro Limited,3.9,24.1k,76.8k,1.9k,310,2.6k,"Job Security, Skill Development, Salary","Promotions, Work Life Balance"
+22,Deloitte,3.6,23.6k,2.7L,3.4k,319,2.5k,"Promotions, Work Life Balance, Work Satisfaction",
+23,Kotak Mahindra Bank,3.6,22.8k,87.5k,1.4k,115,1.3k,"Promotions, Work Satisfaction, Company Culture",
+24,Reliance Industries,4.0,20.4k,74.6k,1.6k,69,1.9k,"Job Security, Work Life Balance, Skill Development",Promotions
+25,Vodafone Idea,3.9,17.7k,48.9k,702,91,2.1k,"Salary, Company Culture, Work Life Balance",Promotions
+26,Bharti Airtel,3.8,17.2k,50.4k,1.1k,204,1.6k,Promotions,
+27,BYJU'S,3.2,16.4k,50.7k,2.1k,1,1.7k,"Job Security, Company Culture, Work Life Balance",
+28,WNS,3.3,15.4k,71.2k,1.3k,75,1.4k,"Promotions, Salary, Work Satisfaction",
+29,IDFC FIRST Bank,3.9,14.9k,50.7k,1k,37,784,"Salary, Work Life Balance, Skill Development",
+30,Ernst & Young,3.4,14.8k,1.5L,1.4k,4.3k,1.1k,"Promotions, Work Life Balance, Work Satisfaction",
+31,IndusInd Bank,3.4,14.4k,52.7k,784,163,844,"Promotions, Company Culture, Work Satisfaction",
+32,AU Small Finance Bank,3.8,14.4k,30.1k,717,302,614,Salary,
+33,Tata Motors,4.1,14.3k,43.4k,1.3k,211,1.6k,"Job Security, Company Culture, Work Life Balance",Promotions
+34,Bajaj Finserv,3.9,13.3k,31.7k,790,5,752,"Salary, Skill Development, Job Security",
+35,Muthoot FinCorp,4.5,13.2k,9.6k,2.4k,44,293,"Company Culture, Work Life Balance, Job Security",
+36,Flipkart,3.9,13.1k,56.6k,1.7k,161,1.4k,"Skill Development, Salary",Promotions
+37,PwC,3.3,12.9k,1.3L,1.6k,1k,859,"Promotions, Work Life Balance, Work Satisfaction",
+38,HDFC Life,3.8,12.2k,33.7k,825,131,647,Skill Development,Promotions
+39,Mahindra & Mahindra,4.0,12.2k,41.1k,891,6,1.2k,"Job Security, Skill Development, Company Culture",Promotions
+40,Infosys BPM,3.5,12.2k,77.3k,1.1k,53,1.1k,Job Security,"Promotions, Salary, Work Satisfaction"
+41,DXC Technology,3.6,12.1k,75.2k,907,198,1.1k,Work Life Balance,"Promotions, Salary, Work Satisfaction"
+42,Bandhan Bank,3.7,11.4k,27k,776,--,567,"Promotions, Work Satisfaction, Skill Development",
+43,Digitide Solutions,3.5,10.5k,27.3k,582,370,787,"Promotions, Salary, Work Satisfaction",
+44,Mphasis,3.3,10.3k,75.1k,945,88,869,"Promotions, Salary, Work Satisfaction",
+45,Yes Bank,3.7,10.3k,42.8k,571,205,648,"Job Security, Promotions, Company Culture",
+46,Tata Steel,4.0,10k,34.7k,1.1k,--,684,"Work Life Balance, Job Security, Company Culture",Promotions
+47,Quess,3.8,9.9k,31.7k,551,51,466,"Promotions, Job Security",
+48,Asian Paints,3.9,9.7k,26.5k,884,106,931,"Salary, Skill Development, Job Security",Promotions
+49,Startek,3.0,9.6k,25k,658,230,699,"Promotions, Work Satisfaction, Salary",
+50,Maruti Suzuki,4.1,9.6k,29k,805,122,1.1k,"Job Security, Salary, Skill Development",
+51,UltraTech Cement,4.1,9.6k,25.2k,821,60,653,"Job Security, Skill Development, Company Culture",Promotions
+52,Paytm,3.2,9.4k,34.6k,909,898,610,"Job Security, Company Culture, Promotions",
+53,Bajaj Finance,3.9,9.4k,23.8k,457,8.3k,537,"Salary, Skill Development, Job Security",
+54,Shriram Finance,3.9,9.2k,15.6k,464,4,53,"Job Security, Company Culture, Work Life Balance",Promotions
+55,Sutherland Global Services,3.4,9.2k,36.2k,814,309,927,"Promotions, Work Satisfaction, Skill Development",
+56,Equitas Small Finance Bank,4.3,9k,13.8k,1k,38,427,"Job Security, Company Culture, Work Life Balance",
+57,Wells Fargo,3.6,8.8k,64.1k,701,220,877,Work Life Balance,"Promotions, Skill Development, Work Satisfaction"
+58,Cipla,4.1,8.7k,26.6k,610,37,885,"Salary, Work Life Balance, Skill Development",
+59,EXL Service,3.6,8.7k,45.6k,931,78,819,Job Security,"Promotions, Salary, Skill Development"
+60,Ericsson,3.9,8.5k,42.7k,479,61,1k,"Work Life Balance, Company Culture","Promotions, Salary"
+61,Samsung,3.9,8.4k,26.3k,638,55,535,Salary,Promotions
+62,Dr. Reddy's,4.0,8.3k,26.2k,529,49,757,"Company Culture, Work Life Balance, Skill Development",Promotions
+63,Optum Global Solutions,4.0,8.1k,51.8k,787,312,712,"Job Security, Work Life Balance, Company Culture",Promotions
+64,JSW Steel,3.9,8k,32k,862,134,635,"Job Security, Skill Development",Promotions
+65,JPMorgan Chase & Co.,3.8,7.9k,92.5k,892,453,872,"Job Security, Salary",Promotions
+66,Delhivery,3.8,7.9k,22.1k,626,294,672,Promotions,
+67,Coforge,3.3,7.9k,58.9k,849,256,361,"Promotions, Work Satisfaction, Skill Development",
+68,ICICI Prudential Life Insurance,3.9,7.9k,23.3k,493,189,646,"Job Security, Salary, Skill Development",
+69,Hexaware Technologies,3.4,7.8k,55.8k,841,1.8k,571,"Promotions, Salary, Work Satisfaction",
+70,Sun Pharmaceutical Industries,4.0,7.7k,23.7k,696,373,620,"Salary, Job Security, Skill Development",
+71,Jana Small Finance Bank,3.7,7.7k,14.5k,312,138,642,Salary,Promotions
+72,Ujjivan Small Finance Bank,4.0,7.7k,13.8k,335,117,597,"Company Culture, Work Life Balance, Skill Development",
+73,Zydus Lifesciences,4.0,7.6k,20.5k,520,39,644,"Salary, Work Life Balance, Skill Development",
+74,HGS,3.7,7.6k,20.4k,279,26,974,"Promotions, Salary",
+75,Ekart Logistics,3.9,7.6k,17.1k,415,--,435,Skill Development,Promotions
+76,Amazon Development Centre India,3.8,7.5k,40.1k,907,9,367,"Company Culture, Work Life Balance","Promotions, Job Security, Skill Development"
+77,Lupin,4.1,7.4k,22.6k,454,56,782,"Company Culture, Skill Development, Work Life Balance",Promotions
+78,KPMG India,3.4,7.4k,70k,953,89,766,"Promotions, Work Life Balance, Work Satisfaction",
+79,Axis Max Life Insurance,4.0,7.3k,20.2k,426,1.7k,533,"Skill Development, Company Culture, Work Life Balance",
+80,L&T Construction,4.0,7.3k,19.5k,954,--,933,"Job Security, Skill Development, Salary","Work Life Balance, Promotions"
+81,ITC,3.9,7.3k,25.3k,708,72,654,"Job Security, Skill Development",Promotions
+82,Hindustan Unilever,4.2,7.3k,20.5k,480,29,717,"Skill Development, Company Culture, Work Life Balance",Promotions
+83,Megha Engineering & Infrastructures,3.9,7k,19.2k,589,23,560,Work Life Balance,Promotions
+84,Tata Projects,4.2,6.9k,22.7k,631,37,564,"Salary, Company Culture, Work Life Balance",
+85,Cholamandalam Investment & Finance,3.8,6.8k,13.5k,306,58,317,Salary,
+86,Bajaj Life Insurance,3.8,6.7k,17.9k,453,101,495,Salary,
+87,L&T Technology Services,3.1,6.7k,44.9k,637,--,469,"Promotions, Salary, Work Satisfaction",
+88,FIS,3.8,6.6k,39.3k,546,185,732,Work Life Balance,"Promotions, Job Security, Skill Development"
+89,Oracle,3.3,6.6k,65.3k,966,202,638,Work Life Balance,"Promotions, Salary, Work Satisfaction"
+90,Omega Healthcare,3.8,6.5k,28k,566,153,405,"Promotions, Salary",
+91,JLL,4.1,6.5k,25.5k,506,358,557,"Company Culture, Work Life Balance, Job Security",Promotions
+92,Muthoot Finance,3.7,6.5k,13.3k,369,156,345,"Promotions, Work Satisfaction",
+93,IIFL Finance,4.0,6.4k,14k,338,62,415,"Work Life Balance, Company Culture, Skill Development",
+94,eClerx,3.1,6.4k,33.5k,650,431,574,"Promotions, Salary, Work Satisfaction",
+95,Indian Army,4.7,6.3k,9.3k,213,--,757,"Job Security, Company Culture, Work Life Balance",
+96,DMart,3.9,6.2k,19.5k,572,236,496,"Job Security, Company Culture",Promotions
+97,PolicyBazaar,3.7,6.2k,18.4k,654,1.4k,256,Salary,Work Life Balance
+98,Piramal Finance,4.2,6.2k,12.5k,304,646,404,"Company Culture, Work Life Balance, Skill Development",
+99,Virtusa Consulting Services,3.7,6.2k,57.7k,688,166,329,"Promotions, Work Satisfaction, Job Security",
+100,Indiamart Intermesh,3.5,6.1k,21.8k,785,232,476,"Work Satisfaction, Promotions, Company Culture",
+101,HSBC Group,3.8,6.1k,45.5k,565,126,1.1k,"Work Life Balance, Job Security, Company Culture","Promotions, Salary"
+102,HCL Group,3.5,6.1k,38.7k,523,--,666,Job Security,"Promotions, Salary, Company Culture"
+103,SMFG India Credit,3.9,6.1k,11.3k,217,144,366,Salary,Promotions
+104,Access Healthcare,3.7,6k,29.7k,414,1.1k,371,Promotions,
+105,BigBasket,3.9,5.9k,20.1k,504,46,392,Job Security,Promotions
+106,Siemens,4.0,5.9k,35k,520,461,645,"Work Life Balance, Job Security, Company Culture",Promotions
+107,Manappuram Finance,3.9,5.9k,9.7k,236,20,274,"Work Life Balance, Promotions, Skill Development",
+108,ICICI Lombard General Insurance Company,3.5,5.9k,20.4k,369,241,388,"Promotions, Work Satisfaction, Company Culture",
+109,Firstsource Solutions,3.5,5.9k,25.1k,370,125,585,"Promotions, Salary, Work Satisfaction",
+110,GlobalLogic,3.5,5.9k,41.9k,697,82,535,"Promotions, Salary, Work Satisfaction",
+111,Aurobindo Pharma,4.0,5.8k,20.4k,299,25,480,"Job Security, Salary, Work Life Balance",Promotions
+112,Tata Capital,4.0,5.8k,16.5k,288,4.2k,275,"Job Security, Company Culture, Work Life Balance",Promotions
+113,Shapoorji Pallonji Group,4.1,5.8k,15.5k,449,39,655,"Job Security, Company Culture, Work Life Balance",Promotions
+114,UST,3.7,5.8k,41.2k,611,715,420,Work Life Balance,"Promotions, Salary, Job Security"
+115,Standard Chartered,3.6,5.8k,42.5k,331,1,318,"Promotions, Work Satisfaction, Salary",
+116,Apollo Hospitals,4.0,5.7k,16.9k,499,286,525,"Job Security, Skill Development, Company Culture",Promotions
+117,Mahindra Finance,3.9,5.7k,12.4k,227,127,526,Promotions,
+118,Udaan,3.9,5.7k,14.8k,376,--,762,Salary,"Job Security, Promotions"
+119,Swiggy,3.7,5.7k,24.5k,598,198,369,"Job Security, Promotions, Work Life Balance",
